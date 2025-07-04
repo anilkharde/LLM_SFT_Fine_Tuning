@@ -1,0 +1,12 @@
+trl
+transformers
+datasets
+torch
+wandb
+scikit-learn
+matplotlib
+seaborn
+nltk
+rouge-score
+bert-score
+sacrebleu
